@@ -1,5 +1,5 @@
 	<div id="footer">
-		<p>&copy; 2014 Crypton | Powered by <a href="https://github.com/Crypton33/CryptoPonzi">CryptoPonzi</a> script</p>
+		<p>&copy; 2016 OutAstra | Powered by <a href="https://www.dash.org">Dashcoin</a> currency</p>
 	</div>
 	</div>
 </body>
