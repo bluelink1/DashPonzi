@@ -28,11 +28,11 @@
 		'income' => 0.5,																			// How much money to send - default: 0.1 - 110%
 		'fee' => 0.45,																				// Fee taken from pay in amount
 		'payout-check' => 180,																// Time between payouts
-		'ownaddress' => 'XgKstZyB6tNVgszrc21YGCF5onc7asgo2T', // Your address
-		'sendback' => false,																	// What to do with txs that are over maximum or under minimum | true - send back, false - send to your address
+		'ownaddress' => '13P99A9qVbZBtsJSwsy81Fa7dpVKNzKvwY', // Your address
+		'sendback' => true,																	// What to do with txs that are over maximum or under minimum | true - send back, false - send to your address
 		'ponziacc' => 'btc',																	// Name of daemon account
-		'address' => '1XHashyYeuQmScn9dGQFUQLVxtZhiwWZJ',			// Ponzi address
-		'privkey' => '5KHBt38d79jDX6Rpx17BQta5BnqH8Zk6XnHvReb6egYHJLBqCaG',																			// Needed in setup, private key of your address
+		'address' => '1Hashfm3KyCH8AQXLkQQ3JKh6PcGro2sze',			// Ponzi address
+		'privkey' => '5HxWV2saEW1xYG1LwFwMoYT9MBV2RKMqFHYLEXLh7dQuyaJrFYP',																			// Needed in setup, private key of your address
 		'blockchain-addr' => 'https://blockchain.info/en/address/',
 		'blockchain-tx' => 'https://blockchain.info/en/tx/'
 	);
