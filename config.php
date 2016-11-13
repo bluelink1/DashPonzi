@@ -12,7 +12,7 @@
 	$rpc = array(
 		'login' => 'bitcoinrpc',
 		'password' => 'AnZkacanS66jswqEmsASDisvEJQiEeWs3AEMw9qSBb5s',
-		'ip' => '127.0.0.1',
+		'ip' => '52.161.27.16',
 		'port' => '8332'
 	);
 	
